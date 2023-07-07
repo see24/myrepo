@@ -6,3 +6,5 @@ Line from Rstudio
 Line from GitHub
 
 New line by collaborator. Pushed first
+
+New line added in branch.
