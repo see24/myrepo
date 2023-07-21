@@ -5,4 +5,7 @@ Line from Rstudio
 
 Line from GitHub
 
-New line by collaborator. Edit in main
+
+New line by collaborator. Edit in branch
+
+New line added in branch.
