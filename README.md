@@ -9,5 +9,3 @@ Line from GitHub
 New line by collaborator. Edit in branch
 
 New line added in branch.
-
-More new stuff added in main. 2
