@@ -5,4 +5,4 @@ Line from Rstudio
 
 Line from GitHub
 
-New line by collaborator. Pushed first
+New line by collaborator. Edit in main
