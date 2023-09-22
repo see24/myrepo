@@ -6,4 +6,6 @@ Line from Rstudio
 Line from GitHub
 
 
-New line by collaborator. 
+New line by collaborator. Edits in branch
+
+More new stuff in branch
